@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{o as s,m as o,w as a,b as r,R as c,S as n,T as d}from"./CQ9P6qCZ.js";const l={};function u(e,_){return s(),o(d,null,{default:a(()=>[r(c,{class:"auth-layout"},{default:a(()=>[n(e.$slots,"default",{},void 0,!0)]),_:3})]),_:3})}const i=t(l,[["render",u],["__scopeId","data-v-23a24b25"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{g as s,j as a,k as t,n as e,o as c,c as r}from"./CQ9P6qCZ.js";const d=s({__name:"index",setup(_){const{isLoggedIn:n,DEFAULT_COURSE_ID:o}=a();return t(()=>{n.value?e(`/courses/${o}`):e("/sign_in")}),(i,u)=>(c(),r("div"))}});export{d as default};
